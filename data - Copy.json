@@ -1,0 +1,75 @@
+[
+    {
+        "name": "Himanshu Pati",
+        "age": 18,
+        "email": "Himanshupatil312007@gmail.com",
+        "pin": 0,
+        "AccountNo": "*U#7i6",
+        "habits": [
+            "WAKING UP EARLY",
+            "GYM",
+            "SKIN CARE",
+            "4 LITER WATER",
+            "SLEEP EARLY"
+        ],
+        "records": {
+            "2026-02-24": {
+                "WAKING UP EARLY": false,
+                "GYM": false,
+                "SKIN CARE": false,
+                "4 LITER WATER": false,
+                "SLEEP EARLY": false
+            },
+            "2026-02-25": {
+                "WAKING UP EARLY": true,
+                "GYM": true,
+                "SKIN CARE": true,
+                "4 LITER WATER": true,
+                "SLEEP EARLY": true
+            }
+        },
+        "streak": 1
+    },
+    {
+        "name": "Suyash patil",
+        "age": 21,
+        "email": "suyashpatil13@gmail.com",
+        "pin": 0,
+        "AccountNo": "1%Gj!8",
+        "habits": [
+            "Coding",
+            "Vfx",
+            "editing"
+        ],
+        "records": {
+            "2026-02-25": {
+                "Coding": true,
+                "Vfx": false,
+                "editing": true
+            }
+        },
+        "streak": 0
+    },
+    {
+        "name": "Suyash Patil",
+        "age": 21,
+        "email": "patilsuyash31@gmail.com",
+        "pin": 1354,
+        "AccountNo": "76jw%^",
+        "habits": [
+            "Go to the Gym",
+            "Drink 4 ltr water",
+            "Spend atleast 2 hour on Web Dev",
+            "Remeber Himu Gandu ahe"
+        ],
+        "records": {
+            "2026-02-28": {
+                "Go to the Gym": false,
+                "Drink 4 ltr water": false,
+                "Spend atleast 2 hour on Web Dev": false,
+                "Remeber Himu Gandu ahe": true
+            }
+        },
+        "streak": 0
+    }
+]
